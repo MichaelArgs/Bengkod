@@ -1,3 +1,7 @@
+import streamlit as st
+import pickle
+import numpy as np
+
 # Menampilkan judul aplikasi
 st.title("Prediksi Kualitas Air")
 
